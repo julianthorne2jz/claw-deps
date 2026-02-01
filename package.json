@@ -1,0 +1,31 @@
+{
+  "name": "claw-deps",
+  "version": "1.0.0",
+  "description": "Dependency checker for AI agents - check outdated and vulnerable packages",
+  "main": "index.js",
+  "bin": {
+    "claw-deps": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "dependencies",
+    "outdated",
+    "security",
+    "audit",
+    "npm",
+    "pip",
+    "cargo",
+    "go",
+    "ai-agent",
+    "devtools"
+  ],
+  "author": "Julian Thorne <julian.thorne.2jz@proton.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianthorne2jz/claw-deps.git"
+  }
+}
