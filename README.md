@@ -1,5 +1,16 @@
 # claw-deps
 
+## Install
+
+```bash
+git clone https://github.com/julianthorne2jz/claw-deps
+cd claw-deps
+npm link
+```
+
+Now you can use `claw-deps` from anywhere.
+
+
 Dependency checker for AI agents. Check for outdated and vulnerable packages across multiple ecosystems.
 
 ## Features
